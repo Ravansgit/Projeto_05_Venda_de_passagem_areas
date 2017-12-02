@@ -1,0 +1,13 @@
+<%@ page pageEncoding="UTF-8" %>
+<h1>Parking WebApp</h1>
+<div>
+    <a href="cadastro.jsp">CADASTRO</a> <b></b>
+    <a href="destino_ida.jsp">PASSAGEM DE IDA</a>
+    <a href="destino_ida_volta.jsp">PASSAGEM DE IDA/VOLTA</a>
+    <a href="pacotes.jsp">PACOTES</a>
+    <a href="pagamento.jsp">PAGAMENTO</a>
+</div>
+</hr>
+
+
+
