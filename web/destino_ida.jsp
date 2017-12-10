@@ -13,7 +13,7 @@
 
             <form method="post">
                 <label>Origem:</label>
-                <select name="ida_origem" id="origem">
+                <select name="ida_origem" id="origem" class="form-control">
                     <option value="Aeroporto Internacional de Cruzeiro do Sul (CZS/SBCZ)" selected="selected">ACRE - Aeroporto Internacional de Cruzeiro do Sul (CZS/SBCZ)</option>
                     <option value="Aeroporto Internacional Presidente Médici (RBR/SBRB) – Rio Branco">ACRE - Aeroporto Internacional Presidente Médici (RBR/SBRB) – Rio Branco</option>
                     <option value="Aeroporto Internacional Zumbi dos Palmares (MCZ/SBMO) – Maceió">ALAGOAS - Aeroporto Internacional Zumbi dos Palmares (MCZ/SBMO) – Maceió</option>

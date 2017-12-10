@@ -1,5 +1,5 @@
 <%@ page pageEncoding="UTF-8" %>
-</hr>
-<div style="text-align: center;">
-    Desenvolvido pela turma POO do curso de ADS
-</div>
+<footer class="footer fixed-bottom">
+    <p class="text-center">Desenvolvido pelos alunos Bryan, Joao, Saulo e Vitoria - POO, 4° Ciclo - ADS. &copy; 2017</p>
+</footer>
+

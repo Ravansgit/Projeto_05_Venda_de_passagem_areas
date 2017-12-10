@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10/12/2017, 17:34:56
+    Author     : vitoria
+*/
+body{
+    background: url(../img/fundo.jpg) top center/1500px no-repeat ; 
+    color: #fff;
+}
+input[type="email"], [type="password"],[type="text"], [type="date"], [type="number"]{
+    background: transparent;
+    color: #fff;
+}
+select{
+    background: transparent  !important;
+    color: #fff !important;
+}
+option{
+    color: #000;
+}
+input[type="submit"]{
+    margin-left: 5%;
+}
+.btn-login{
+    background: transparent;
+    color: #fff;
+    font-size: 1.3em;
+    cursor: pointer;
+}
