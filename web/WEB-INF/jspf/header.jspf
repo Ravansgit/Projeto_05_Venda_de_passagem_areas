@@ -6,7 +6,7 @@
     <ul class="nav nav-default">
         <li class="nav-item"><a href="cadastro.jsp" class="nav-link" style="color: #fff;">CADASTRO</a></li>
         <li class="nav-item"><a href="destino_ida.jsp" class="nav-link" style="color: #fff;">PASSAGEM DE IDA</a></li>
-        <li class="nav-item"><a href="destino_ida_volta.jsp" class="nav-link"style="color: #fff;">PASSAGEM DE IDA/VOLTA</a></li>
+        <li class="nav-item"><a href="compra_passagens.jsp" class="nav-link"style="color: #fff;">PASSAGEM </a></li>
         <li class="nav-item"><a href="pacotes.jsp" class="nav-link" style="color: #fff;">PACOTES</a></li>
         <li class="nav-item"><a href="pagamento.jsp" class="nav-link" style="color: #fff;">PAGAMENTO</a></li>
     </ul>
